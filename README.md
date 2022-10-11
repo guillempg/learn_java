@@ -55,12 +55,16 @@ code reviews, Pull requests, code style and static code analysis tools).
   - If you're more into reading books, I'd recommend Cay Horstmann's
     Core Java books (there are two, first volume is the ["Fundamentals"](https://www.amazon.es/Core-Java-Fundamentals-Oracle-Press/dp/0137673620/), 
     and volume 2 is the ["Advanced"](https://www.amazon.es/Core-Java-Vol-II-Advanced/dp/0137871074/))
+  
+
 - Java (pro): I learnt these while I was actively writing programs. I don't think these topics are easy to learn just
   from a theoretical point of view, it's better if you can learn them while you write Java programs. 
     - Data structures & Algorithms: honestly, for most of the day to day programs you will only need to know
-      about ArrayList, HashSet, HashMap and TreeMap. I used Robert Lafore's 
-      ["Data Structures and Algorithms in Java"](https://www.amazon.es/Data-Structures-Algorithms-Robert-Lafore/dp/0672324539/) book
-      but there are many online blogs and even some [funny videos](https://youtu.be/Iv3vgjM8Pv4) explaining these algorithms.
+      about ArrayList, HashSet, HashMap and TreeMap. But it's still good to know about other, more specialized data structures and
+      how they compare to each other in terms of efficiency, and when they are best used. In order to understand the 
+      differences, you will have to know what "Big O notation" is (for instance is well explained in [this blog post](https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/)). 
+      I used Robert Lafore's ["Data Structures and Algorithms in Java"](https://www.amazon.es/Data-Structures-Algorithms-Robert-Lafore/dp/0672324539/) book
+      but there are many online blogs, or videos (like [this, about data structures](https://www.youtube.com/watch?v=8MmMm2-kJV8)), and even some [funny videos](https://youtu.be/Iv3vgjM8Pv4) explaining these algorithms.
     - There's a great book by Joshua Block, ["Effective Java"](https://www.amazon.es/Effective-Java-Joshua-Bloch/dp/0134685997/) which
       gives very good advice on how to write real good Java code.
     - Another good book on how to write high quality Java code is Martin Fowler's ["Refactoring: Improving the Design of Existing Code"](https://www.amazon.es/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/).
