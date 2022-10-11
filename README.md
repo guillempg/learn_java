@@ -30,23 +30,43 @@ you. Before starting you journey, take a look at the image below, it maps concep
 ![Java learning paths](images/Java_learning_paths.png)
 
 I'd start with Java (start), get familiar with the [Java Language Specification (JLS)](https://docs.oracle.com/javase/specs/). 
-The JLS is too "dry" to learn Java from, but Oracle has [tutorials for Java new joiners](
-https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava). 
-
-If you're more into watching videos, [these ones are a first approach to it](https://testautomationu.applitools.com/java-programming-course/). 
-If you're more into reading books, I'd recommend Cay Horstmann's 
-Core Java books (there are two, first volume is the "Fundamentals", and volume 2 is the "Advanced"). But the best way to learn Java
-is to write Java programs (TODO: add resources to simple Java program exercises).
+The JLS is too "dry" to learn Java from, but it's the ultimate source of truth in case of doubt.
 
 When you start writing your first Java programs, use an IDE (Integrated Development Environment). I'd recommend IntelliJ Idea (the community edition
 is free to use, if not, your local Java Users Group might help you get a license for it). It's not necessary to get Oracle's Certificate of professional
-Programmer (OCP), but review the [list of topics](OracleCertTopics.md) that you would have to know in order to pass the certification exam, it's a good 
+Programmer (OCP), but review the [list of topics](OracleCertTopics.md) that you would have to know in order to pass the certification exam, it's a good
 starting point on what are the most important things to learn from the Java Language Specification (JLS).
 
-Once you knoThen follow up with Java (pro) and at the same time gain familiarity
+Once you know the basics of Java language, then follow up with Java (pro) and at the same time gain familiarity
 with the other tools and processes: Version control with Git, Building with Gradle or Maven (you will have to work with
 both of them, but I think Gradle might be easier to start with), and also the Team organization tools (Jira, Agile mindset,
 code reviews, Pull requests, code style and static code analysis tools).
+
+
+## Here's an index of contents and resources for each block:
+
+- Java (start):
+  - [Java Language Specification (JLS)](https://docs.oracle.com/javase/specs/)
+  - [Oracle Java tutorials](
+    https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava)
+  - A website with exercises for different programming languages has a Java track (registration required, but free to use):
+    [Exercism](https://exercism.org/tracks/java)
+  - [Videos to learn Java basics ](https://testautomationu.applitools.com/java-programming-course/)
+  - If you're more into reading books, I'd recommend Cay Horstmann's
+    Core Java books (there are two, first volume is the ["Fundamentals"](https://www.amazon.es/Core-Java-Fundamentals-Oracle-Press/dp/0137673620/), 
+    and volume 2 is the ["Advanced"](https://www.amazon.es/Core-Java-Vol-II-Advanced/dp/0137871074/))
+- Java (pro): I learnt these while I was actively writing programs. I don't think these topics are easy to learn just
+  from a theoretical point of view, it's better if you can learn them while you write Java programs. 
+    - Data structures & Algorithms: honestly, for most of the day to day programs you will only need to know
+      about ArrayList, HashSet, HashMap and TreeMap. I used Robert Lafore's 
+      ["Data Structures and Algorithms in Java"](https://www.amazon.es/Data-Structures-Algorithms-Robert-Lafore/dp/0672324539/) book
+      but there are many online blogs and even some [funny videos](https://youtu.be/Iv3vgjM8Pv4) explaining these algorithms.
+    - There's a great book by Joshua Block, ["Effective Java"](https://www.amazon.es/Effective-Java-Joshua-Bloch/dp/0134685997/) which
+      gives very good advice on how to write real good Java code.
+    - Another good book on how to write high quality Java code is Martin Fowler's ["Refactoring: Improving the Design of Existing Code"](https://www.amazon.es/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/).
+      It's in its 2nd edition now (has examples in Javascript), but the first edition from 1999 does have examples in Java code.
+    - The third book I'd recommend reading is Erich Gamma et.al. ["Design Patterns: Elements of Reusable Object-Oriented Software"](https://www.amazon.es/Design-Patterns-Object-Oriented-professional-computing/dp/0201633612/).
+      It contains examples of commonly used patterns in Java programs, and when are they used. These [design patterns can also be checked online](https://java-design-patterns.com/).  
 
 
 
