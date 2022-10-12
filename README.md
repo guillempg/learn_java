@@ -51,7 +51,8 @@ code reviews, Pull requests, code style and static code analysis tools).
     https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava)
   - A website with exercises for different programming languages has a Java track (registration required, but free to use):
     [Exercism](https://exercism.org/tracks/java)
-  - [Videos to learn Java basics ](https://testautomationu.applitools.com/java-programming-course/)
+  - [Freecodecamp.org Youtube video](https://www.youtube.com/watch?v=A74TOX803D0) explaining the Java basics
+  - [Another set of videos](https://testautomationu.applitools.com/java-programming-course/) to learn Java basics.
   - If you're more into reading books, I'd recommend Cay Horstmann's
     Core Java books (there are two, first volume is the ["Fundamentals"](https://www.amazon.es/Core-Java-Fundamentals-Oracle-Press/dp/0137673620/), 
     and volume 2 is the ["Advanced"](https://www.amazon.es/Core-Java-Vol-II-Advanced/dp/0137871074/))
