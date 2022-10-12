@@ -45,7 +45,7 @@ code reviews, Pull requests, code style and static code analysis tools).
 
 ## Here's an index of contents and resources for each block:
 
-- Java (start):
+### Java (start):
   - [Java Language Specification (JLS)](https://docs.oracle.com/javase/specs/)
   - [Oracle Java tutorials](
     https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava)
@@ -56,21 +56,37 @@ code reviews, Pull requests, code style and static code analysis tools).
     Core Java books (there are two, first volume is the ["Fundamentals"](https://www.amazon.es/Core-Java-Fundamentals-Oracle-Press/dp/0137673620/), 
     and volume 2 is the ["Advanced"](https://www.amazon.es/Core-Java-Vol-II-Advanced/dp/0137871074/))
   
+### Tools & Processes (IDE):
+I suggest you to learn to compile and execute Java application manually, executing `javac` and `java` before leaning on
+an IDE to do that for you. An IDE offers many advantages, like syntax checking, code navigation, dependencies and many more.
+Here are a few IDEs to choose from:
+- [IntelliJ Idea](https://www.jetbrains.com/idea/) by JetBrains is my favourite integrated development editor (I've tried Eclipse and Netbeans in my career). 
+  It is very [well documented](https://www.jetbrains.com/help/idea/getting-started.html).
+- [NetBeans](https://netbeans.apache.org/) is also a good IDE which I used for many years.
+- [VS code](https://code.visualstudio.com/) supports most of the frontend languages out of the box, and Java through an extension. 
+  I haven't used it personally.
+ 
+### Tools & Processes (Version control):
+Nowadays, there's only one version control program worth mentioning: [Git](https://git-scm.com/). It was developed by
+Linus Torvalds, and has superseded other older version control programs like Subversion or CVS. [Here is](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+a good introduction to Git, and the online documentation in Git's website is also worth checking, there's even the "Pro Git" book available there.
 
-- Java (pro): I learnt these while I was actively writing programs. I don't think these topics are easy to learn just
-  from a theoretical point of view, it's better if you can learn them while you write Java programs. 
-    - Data structures & Algorithms: honestly, for most of the day to day programs you will only need to know
-      about ArrayList, HashSet, HashMap and TreeMap. But it's still good to know about other, more specialized data structures and
-      how they compare to each other in terms of efficiency, and when they are best used. In order to understand the 
-      differences, you will have to know what "Big O notation" is (for instance is well explained in [this blog post](https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/)). 
-      I used Robert Lafore's ["Data Structures and Algorithms in Java"](https://www.amazon.es/Data-Structures-Algorithms-Robert-Lafore/dp/0672324539/) book
-      but there are many online blogs, or videos (like [this, about data structures](https://www.youtube.com/watch?v=8MmMm2-kJV8)), and even some [funny videos](https://youtu.be/Iv3vgjM8Pv4) explaining these algorithms.
-    - There's a great book by Joshua Block, ["Effective Java"](https://www.amazon.es/Effective-Java-Joshua-Bloch/dp/0134685997/) which
-      gives very good advice on how to write real good Java code.
-    - Another good book on how to write high quality Java code is Martin Fowler's ["Refactoring: Improving the Design of Existing Code"](https://www.amazon.es/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/).
-      It's in its 2nd edition now (has examples in Javascript), but the first edition from 1999 does have examples in Java code.
-    - The third book I'd recommend reading is Erich Gamma et.al. ["Design Patterns: Elements of Reusable Object-Oriented Software"](https://www.amazon.es/Design-Patterns-Object-Oriented-professional-computing/dp/0201633612/).
-      It contains examples of commonly used patterns in Java programs, and when are they used. These [design patterns can also be checked online](https://java-design-patterns.com/).  
+### Java (pro): 
+I learnt these while I was actively writing programs. I don't think these topics are easy to learn just
+  from a theoretical point of view, it's better if you can learn them while you write Java programs.
+
+ - Data structures & Algorithms: honestly, for most of the day to day programs you will only need to know
+   about ArrayList, HashSet, HashMap and TreeMap. But it's still good to know about other, more specialized data structures and
+   how they compare to each other in terms of efficiency, and when they are best used. In order to understand the 
+   differences, you will have to know what "Big O notation" is (for instance is well explained in [this blog post](https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/)). 
+   I used Robert Lafore's ["Data Structures and Algorithms in Java"](https://www.amazon.es/Data-Structures-Algorithms-Robert-Lafore/dp/0672324539/) book
+   but there are many online blogs, or videos (like [this, about data structures](https://www.youtube.com/watch?v=8MmMm2-kJV8)), and even some [funny videos](https://youtu.be/Iv3vgjM8Pv4) explaining these algorithms.
+ - There's a great book by Joshua Block, ["Effective Java"](https://www.amazon.es/Effective-Java-Joshua-Bloch/dp/0134685997/) which
+   gives very good advice on how to write real good Java code.
+ - Another good book on how to write high quality Java code is Martin Fowler's ["Refactoring: Improving the Design of Existing Code"](https://www.amazon.es/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/).
+   It's in its 2nd edition now (has examples in Javascript), but the first edition from 1999 does have examples in Java code.
+ - The third book I'd recommend reading is Erich Gamma et.al. ["Design Patterns: Elements of Reusable Object-Oriented Software"](https://www.amazon.es/Design-Patterns-Object-Oriented-professional-computing/dp/0201633612/).
+   It contains examples of commonly used patterns in Java programs, and when are they used. These [design patterns can also be checked online](https://java-design-patterns.com/).  
 
 
 
