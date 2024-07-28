@@ -46,9 +46,15 @@ code reviews, Pull requests, code style and static code analysis tools).
 ## Here's an index of contents and resources for each block:
 
 ### Java (start):
+
+  - Codecademy (Java track) has a [free introduction course to Java](https://www.codecademy.com/learn/learn-java) 
   - [Java Language Specification (JLS)](https://docs.oracle.com/javase/specs/)
   - [Oracle Java tutorials](
     https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava)
+  - W3Resource has many short Java exercises (with the solution): 
+    - Basic [First set of 150](https://www.w3resource.com/java-exercises/basic/index.php) and another [set of 100 more](https://www.w3resource.com/java-exercises/basic/index1.php)
+    - [Data types exercises](https://www.w3resource.com/java-exercises/datatypes/index.php)
+    - [Conditional statements](https://www.w3resource.com/java-exercises/conditional-statement/index.php)
   - A website with exercises for different programming languages has a Java track (registration required, but free to use):
     [Exercism](https://exercism.org/tracks/java)
   - [Freecodecamp.org Youtube video](https://www.youtube.com/watch?v=A74TOX803D0) explaining the Java basics
