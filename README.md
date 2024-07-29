@@ -47,7 +47,9 @@ code reviews, Pull requests, code style and static code analysis tools).
 
 ### Java (start):
 
-  - Codecademy (Java track) has a [free introduction course to Java](https://www.codecademy.com/learn/learn-java) 
+  - Udemy free [introduction course to Java](https://www.udemy.com/course/getting-started-with-java/)
+  - Codecademy (Java track) has a [free introduction course to Java](https://www.codecademy.com/learn/learn-java)
+  - Some [java exercises](https://programmingbydoing.com/)
   - [Java Language Specification (JLS)](https://docs.oracle.com/javase/specs/)
   - [Oracle Java tutorials](
     https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html#newtojava)
